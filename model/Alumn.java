@@ -5,4 +5,6 @@ public class Alumn{
 	}
 }
 
-
+	public void execute(){ 
+	//hehex2
+}

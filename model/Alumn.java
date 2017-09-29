@@ -3,8 +3,11 @@ public class Alumn{
 	public Alumn(){
 	//hehe
 	}
-}
 
-	public void execute(){ 
-	//hehex2
+
+public void dosomething(){
+	//code here
+
+	}
+
 }
